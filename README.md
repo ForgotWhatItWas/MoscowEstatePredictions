@@ -1,2 +1,2 @@
 # MoscowEstatePredictions
-Predicting prices of flats in Moscow
+Предсказание цен на квартиры в Москве
