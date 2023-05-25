@@ -1,4 +1,5 @@
-![fotor_2023-5-25_19_18_10](https://github.com/ForgotWhatItWas/MoscowEstatePredictions/assets/134389286/e37c2263-eb8c-4e20-88dd-04dd25ef3d05)
+![fotor_2023-5-25_19_50_26](https://github.com/ForgotWhatItWas/MoscowEstatePredictions/assets/134389286/678902d1-5763-4f88-b494-e12da66aa779)
+
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ## 📑 Данные
