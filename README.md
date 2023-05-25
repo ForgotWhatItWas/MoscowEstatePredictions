@@ -1,5 +1,4 @@
 ![fotor_2023-5-25_12_15_12](https://github.com/ForgotWhatItWas/MoscowEstatePredictions/assets/134389286/0d2c5ec3-c6ab-4853-aa5a-dead8cd57f60)
-![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ## 📑 Данные
